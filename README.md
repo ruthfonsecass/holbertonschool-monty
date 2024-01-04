@@ -13,5 +13,14 @@ The Monty 0.98 is a scripting language that is first compiled into Monty byte co
 ``` gcc -Wall -Werror -Wextra -pedantic *.c -o monty ```
 ## Examples
 ### 0. push, pall
+```
+push 1
+push 2
+push 3
+pall
+```
+### Output:
+
+
 
 
