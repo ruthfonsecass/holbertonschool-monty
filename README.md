@@ -161,6 +161,10 @@ The opcode nop doesn’t do anything.
 
 * Usage: nop
 
+## Authors
+- [@Benjamin Parentt](https://github.com/benjaminparentt)
+- [@Ruth Fonseca](https://github.com/ruthfonsecass)
+
 
 
 
