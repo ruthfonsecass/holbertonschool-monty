@@ -11,4 +11,7 @@ The Monty 0.98 is a scripting language that is first compiled into Monty byte co
 * You are expected to do the tasks in the order shown in the project
 ## Compilation command
 ``` gcc -Wall -Werror -Wextra -pedantic *.c -o monty ```
+## Examples
+### 0. push, pall
+
 
